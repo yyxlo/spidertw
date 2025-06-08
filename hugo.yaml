@@ -2,14 +2,13 @@ baseURL: https://yyxlo.github.io/spidertw/
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
-relativeURLs: true
 
 # home-inform
 params:
   homeInfoParams:
     Title: Hi there
     Content: Welcome to my website
-  
+
   SocialIcons:
     - name: "IG"
       url: "https://www.instagram.com/paiii.abm/"
