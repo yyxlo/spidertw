@@ -3,3 +3,32 @@ languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
 relativeURLs: true
+
+# home-inform
+params:
+  homeInfoParams:
+    Title: Hi there
+    Content: Welcome to my website
+  
+  SocialIcons:
+    - name: "IG"
+      url: "https://www.instagram.com/paiii.abm/"
+    - name: "Youtube"
+      url: "https://www.youtube.com/@paiiiabm"
+
+  cover:
+    responsiveImages: false
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Tag"
+      url: "/tags/"
+      weight: 3
+
+enableEmoji: true
