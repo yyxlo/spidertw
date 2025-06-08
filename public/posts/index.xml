@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://yyxlo.github.io/spidertw/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jun 2025 18:09:04 +0800</lastBuildDate>
+    <atom:link href="https://yyxlo.github.io/spidertw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://yyxlo.github.io/spidertw/posts/first-post/</link>
+      <pubDate>Sun, 08 Jun 2025 18:09:04 +0800</pubDate>
+      <guid>https://yyxlo.github.io/spidertw/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;First&lt;/strong&gt; post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
