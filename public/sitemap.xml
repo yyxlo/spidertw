@@ -2,17 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/spidertw/news/first-post/</loc>
+    <loc>https://yyxlo.github.io/spidertw/</loc>
     <lastmod>2025-06-08T18:09:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spidertw/news/</loc>
+    <loc>https://yyxlo.github.io/spidertw/posts/first-post/</loc>
     <lastmod>2025-06-08T18:09:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spidertw/</loc>
+    <loc>https://yyxlo.github.io/spidertw/posts/</loc>
     <lastmod>2025-06-08T18:09:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spidertw/categories/</loc>
+    <loc>https://yyxlo.github.io/spidertw/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/spidertw/tags/</loc>
+    <loc>https://yyxlo.github.io/spidertw/pages/</loc>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/tags/</loc>
   </url>
 </urlset>

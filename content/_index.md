@@ -1,16 +1,14 @@
----
-title: "歡迎來到我的網站" # 這個標題通常會顯示在瀏覽器標籤上
-# 你可以在這裡加入其他自訂參數，供樣板檔案使用
-subtitle: "一個熱愛科技與生活的開發者"
----
+## Hi there! 👋
 
-![首頁圖片](https://spider.tbn.org.tw/sites/dpspider/files/styles/banner_img/public/thesite/banner.jpg)
+<img class="avatar" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Pale" alt="avatar">
 
-# 你好，我是 [你的名字] 👋
+Hey, I'm Maverick - a minimal template. Maverick is a minimal Hugo blog theme base on Listed by Ronalds Vilciņš.
 
-歡迎來到我的數位小天地。這裡是我分享技術筆記、生活點滴和攝影作品的地方。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-你可以從這裡開始：
-[瀏覽我的部落格文章](/posts)
-[關於我](/about)
-[聯絡我](/contact)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit ut aliquam purus. Massa tempor nec feugiat nisl pretium fusce id velit. Morbi quis commodo odio aenean sed adipiscing. Senectus et netus et malesuada fames ac. Tortor condimentum lacinia quis vel eros donec ac odio. Risus in hendrerit gravida rutrum quisque. Posuere ac ut consequat semper. Sodales ut etiam sit amet
+
+- 📺 Demo: https://maverick.canhtran.me
+- ❤️ Github: https://github.com/canhtran/maverick
+
+Thanks in advance
