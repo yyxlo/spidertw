@@ -2,14 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/spidertw/</loc>
-    <lastmod>2025-08-03T00:08:21+08:00</lastmod>
+    <loc>https://yyxlo.github.io/spidertw/tags/biocontrol/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spidertw/posts/</loc>
-    <lastmod>2025-08-03T00:08:21+08:00</lastmod>
+    <loc>https://yyxlo.github.io/spidertw/categories/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spidertw/categories/</loc>
+    <loc>https://yyxlo.github.io/spidertw/tags/ecosystem-service/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spidertw/tags/</loc>
+    <loc>https://yyxlo.github.io/spidertw/categories/paper/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/posts/20250721/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/posts/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/tags/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/posts/20250526/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/tags/salticidae/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/tags/signal/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/tags/vision/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/about/</loc>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/pages/biology/</loc>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/document/</loc>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/pages/</loc>
+  </url><url>
+    <loc>https://yyxlo.github.io/spidertw/publication/</loc>
   </url>
 </urlset>

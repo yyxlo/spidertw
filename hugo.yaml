@@ -1,4 +1,51 @@
 baseURL: https://yyxlo.github.io/spidertw/
 languageCode: en-us
-title: My New Hugo Site
+title: 蜘訊
 theme: PaperMod
+
+# 允許 Hugo 在 Markdown 中渲染內嵌 HTML，讓 <sup>、<sub>、<mark> 等 HTML 標籤能正常呈現。
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# home-inform
+params:
+  homeInfoParams:
+    Title: 蛛來面對！
+    Content: 蜘訊是長蜘識的地方，目標是把我們在研究、調查、閱讀的過程中，將國內外有關蜘蛛類及其他蛛形綱動物的生態觀察、研究與新知，分享給每位關注蜘蛛的朋友。期望讓更多夥伴正確的瞭解及接觸牠們，一起探索更多蜘識。
+
+  SocialIcons:
+    - name: "FaceBook"
+      url: "https://www.facebook.com/share/g/1AoJUrzG9b/"
+    - name: "TBN蛛式會社平臺"
+      url: "https://spider.tbn.org.tw"
+    - name: "臺灣蛛形學會"
+      url: http://arachsociety.tw
+  
+  ShowShareButtons: true
+  ShowReadingTime: true
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Posts"
+      url: "/posts/"
+      weight: 3
+    - identifier: "Doc"
+      name: "Doc"
+      url: "/document/"
+      weight: 4
+    - name: "Publication"
+      url: "/publication/"
+      weight: 5
+    - name: "Tag"
+      url: "/tags/"
+      weight: 6
+
+enableEmoji: true

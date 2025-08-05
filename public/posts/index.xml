@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/spidertw/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 蜘訊</title>
+    <link>https://yyxlo.github.io/spidertw/posts/</link>
+    <description>Recent content in Posts on 蜘訊</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/spidertw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yyxlo.github.io/spidertw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>paper | Cardoso et al. 2025</title>
+      <link>https://yyxlo.github.io/spidertw/posts/20250721/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxlo.github.io/spidertw/posts/20250721/</guid>
+      <description>&lt;p&gt;這篇文章詳細說明蜘蛛在四大類生態系服務以及對人類福祉提供了哪些重要貢獻，這裡簡單摘要供參：&lt;/p&gt;
+&lt;p&gt;在供給服務上，仿生技術的啟發和醫藥領域的應用是一大亮點。蜘蛛絲的彈性、輕量化、堅韌等特性為大眾所知，很早就被材料工程期望有多種應用潛力，近年建置的silkome資料庫 (彙整了上千種蜘蛛的絲線結構、特性、基因和蛋白質資訊)，有望讓科學家開發新型的聚合物。蜘蛛特蛛的運動模式，例如液壓系統、還有&lt;em&gt;Cebrennus rechenbergi&lt;/em&gt;這種在沙漠翻滾的行為，都為開發機器在各種不同鋪面的移動提供靈感。蜘蛛毒液應用一直是被低估的，目前已有些試驗說明毒液中的神經肽具有鎮痛、抗微生物等潛力，研究人員正努力從中分離和篩選出具有藥用價值的成分，開發新型藥物；毒液作為獵捕昆蟲的利器，其成分或許也能開發作為生物性殺蟲劑，減少對環境和人類的傷害。最後，蜘蛛其實也是種毛球動物，有些種類很適合成為寵物陪你呢。&lt;/p&gt;
+&lt;p&gt;蜘蛛在調節服務方面扮演重要角色，過去研究估計全球蜘蛛一整年可獵捕約4-8億噸獵物，並在農業害蟲控制有顯著效益，牠們的存在有助於減少了對化學殺蟲劑的依賴，避免了農藥殘留對環境和人類健康的潛在危害。不止在農田，公園、溫室、居家環境中的蜘蛛也默默的捕食蚊蟲等潛在的疾病傳播媒介(例如登革熱)，還有那個蟑螂，這些對大多數人可說是最直接也是最有感的服務吧。&lt;/p&gt;
+&lt;p&gt;在支持服務方面，蜘蛛在食物網中的角色相當重要，牠們是許多生物的食物來源，包括哺乳類、鳥類、兩棲爬蟲類、魚類和其他眾多節肢動物都會捕食蜘蛛，某些情況下甚至是重要食物資源，例如在大山雀的育雛階段，蜘蛛就佔了75%的餵食來源，更不用說蜘蛛也是許多寄生生物的重要宿主。參與養分循環或許不容易直接被人們感知，但牠們確實透過處理獵物、排洩物等過程間接影響環境中有機物的循環，例如有研究發現一種棲息在鳳梨科植物的跳蛛，其排遺竟可提供植物約18%的氮源。&lt;/p&gt;
+&lt;p&gt;蜘蛛也是文化服務上的重要資源，自古至今有多少傳說、故事、電影、繪本、歌曲都可以看到蜘蛛的身影，包括魔戒、哈利波特、夏綠蒂的網，還有辣個蜘蛛人，甚至蜘蛛的命名，都可以看見與當代和傳統文化的聯結。最後在科學和教育方面，蜘蛛不僅是許多研究(例如性擇)的模式物種，也是生態系監測的生物指標，近年來更利用metabarcoding分析蛛網上的eDNA或是腸道內含物，有助於快速評估環境的群聚組成和生物間的交互作用。&lt;/p&gt;
+&lt;p&gt;總結來說，從醫藥研發到農業生產、從精神文化到自然保育，蜘蛛提供了無數隱形且被低估的貢獻，有待我們研究與開發，包括需要更明確的量化牠們所提供的經濟價值，以及在自然解方(nature-based solution)的運用。讓大眾意識到蜘蛛對環境和人類福祉的多重貢獻和益處，更能有效地爭取更多保育關注和研究資源投入。&lt;/p&gt;
+&lt;p&gt;Source: Cardoso P, Pekár S, Birkhofer K, Chuang A, Fukushima CS, Hebets EA, Henaut Y, Hesselberg T, Malumbres‐Olarte J, Michálek O, Michalko R, Scott C, Wolff J, Mammola S (2025) Ecosystem services provided by spiders. Biological Reviews. &lt;a href=&#34;https://doi.org/10.1111/brv.70044&#34;&gt;https://doi.org/10.1111/brv.70044&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【此文同步於臺灣蛛式會社臉書社團: &lt;a href=&#34;https://www.facebook.com/share/p/1AuzFahY5y/&#34;&gt;https://www.facebook.com/share/p/1AuzFahY5y/&lt;/a&gt;】&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>paper | Hardenbicker et al. 2025</title>
+      <link>https://yyxlo.github.io/spidertw/posts/20250526/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yyxlo.github.io/spidertw/posts/20250526/</guid>
+      <description>&lt;p&gt;孔雀蜘蛛最引人矚目的，就是雄蛛身上那華麗繽紛的色彩，這些色彩是求偶時的重要視覺訊號。這篇論文想要探討的問題就是：雄蛛體色圖案所傳遞的訊號，是屬於「更容易被看見」、還是「更容易被處理」？&lt;/p&gt;
+&lt;p&gt;依據&lt;strong&gt;訊號偵測理論(signal detection theory)&lt;/strong&gt;，求偶訊號若能與自然背景形成強烈對比，就能越明顯、提升訊號辨識的效率。然而有另外一種假說，即&lt;strong&gt;處理偏好假說(processing bias hypothesis)&lt;/strong&gt;，則認爲視覺系統會偏好處理與環境特徵相似的訊號。這個假說是依據**感官驅動(sensory drive)**理論，主張感知系統會隨棲地環境的性質而調適，進而偏好那些處理起來更省力、代價更低的訊號。因此預期求偶訊號與自然背景相似，反而會收到青睞。這也說明為什麼動物似乎對某些訊號有特別的先天偏好，因爲這些刺激更容易處理。&lt;/p&gt;
+&lt;p&gt;這個研究分析了21種孔雀蜘蛛雄、雌個體的腹部色彩，並且與牠們棲息環境的自然背景做比較。圖像分析是利用傅立葉轉換(Fourier Transform)方法將圖像分解爲不同空間頻率(spatial frequency)組合，用來反映圖案變化的密集程度(例如一整片藍天屬於低頻、變化緩慢，而充滿葉脈的圖像則屬於高頻變化、細節密集)，以及量化各個頻率的強度(即振幅 amplitude)，用來表示各頻率成分在圖像中出現的顯著程度。而這兩者一般會形成負相關的線性關係，其斜率便是光譜斜率(spectral slope)。有趣的是，許多陸域自然場景的光譜斜率有驚人的相似性(大約是-1)，故稱為&amp;quot;natural spectral slope&amp;quot;。這個斜率也認爲和人類美感偏好有關,甚至有研究指出，&lt;em&gt;Maratus spicatus&lt;/em&gt;這種孔雀蜘蛛的雌性似乎會偏好&amp;quot;natural spectral slope&amp;quot;的圖像。&lt;/p&gt;
+&lt;p&gt;但是呢，這篇研究結果的整體趨勢卻發現，雄蛛體色圖案的光譜斜率，明顯低於雌蛛和自然背景，而雌蛛體色和自然背景則沒有顯著差異，這支持了背景對比的假說。這個看似矛盾的結果有幾個可能因素，首先是這篇研究分析的是21個物種的普遍趨勢，而先前偏好試驗僅測試單一物種。另一個則突顯了權衡(trade-off)的複雜性，即雄蛛雖然需要凸顯自己、在複雜背景中被發現，但其實也沒有太過偏離&amp;quot;natural spectral slope&amp;quot;，可能是避免導致視覺系統無法有效處理訊號；此外，孔雀蜘蛛的求偶還涉及了視覺、振動、化學、UV等多重訊號訊號傳遞來整體展示效果。&lt;/p&gt;
+&lt;p&gt;下回再看到五彩繽紛、不到1cm的孔雀蜘蛛可要讚歎一番，那是視覺系統、自然棲地、性擇與天擇交織而成的美麗圖案。&lt;/p&gt;
+&lt;p&gt;Source: Hardenbicker M, Schubert J, Tedore C (2025) A Comparison of Image Statistics of Peacock Jumping Spider Colour Patterns and Natural Scenes. Ecology and Evolution 15: e71363. &lt;a href=&#34;https://doi.org/10.1002/ece3.71363&#34;&gt;https://doi.org/10.1002/ece3.71363&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【此文同步於臺灣蛛式會社臉書社團: &lt;a href=&#34;https://www.facebook.com/share/p/19AGkSsj8F/&#34;&gt;https://www.facebook.com/share/p/19AGkSsj8F/&lt;/a&gt;】&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
