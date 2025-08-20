@@ -24,7 +24,7 @@ params:
       url: http://arachsociety.tw
   
   ShowShareButtons: true
-  ShowReadingTime: true
+  ShowReadingTime: false
 
 menu:
   main:
