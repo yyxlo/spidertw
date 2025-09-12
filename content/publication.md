@@ -1,28 +1,31 @@
 ## Journal
 
-[12] **Lo, Y.-Y.**, R.-C. Cheng and C.-P. Lin. 2024. Integrative species delimitation and five new species of lynx spiders (Araneae, Oxyopidae) in Taiwan. PLOS ONE 19: e0301776. https://doi.org/10.1371/journal.pone.0301776
+[13] Huang Y-M, **Lo Y-Y**, Cheng R-C (2025) Redescription of five *Parasteatoda* species and one  Campanicola (Araneae: Theridiidae) species from Taiwan. Taiwan Journal of Biodiversity 27: 1–29. 
 
-[11] **Lo, Y.-Y.**, C. Wei and R.-C. Cheng. 2023. Tree-dwelling wolves: a new arboreal *Hogna* species (Araneae: Lycosidae) from Taiwan. Zootaxa 5353: 47–59. https://doi.org/10.11646/zootaxa.5353.1.2
+[12] **Lo Y-Y**, Cheng R-C, Lin C-P (2024) Integrative species delimitation and five new species of lynx spiders (Araneae, Oxyopidae) in Taiwan. PLOS ONE 19: e0301776. https://doi.org/10.1371/journal.pone.0301776 
 
-[10] Yu, K.-P., **Y.-Y. Lo**, R.-C. Cheng, R. Ravenand M. Kuntner. 2023. Discovery of a new intertidal trapdoor spider *Idioctis* (Araneae: Barychelidae): Genus range extended to Taiwan. Journal of Arachnology 51(2): 238–248. https://doi.org/10.1636/JoA-S-22-020
+[11] **Lo Y-Y**, Wei C, Cheng R-C (2023) Tree-dwelling wolves: a new arboreal *Hogna* species (Araneae: Lycosidae) from Taiwan. Zootaxa 5353: 47–59. 
+https://doi.org/10.11646/zootaxa.5353.1.2 
 
-[9] **Lo, Y.-Y.**, C. Wei and W.-C. Huang. 2021. A newly recorded species of *Cheiracanthium* C. L. Koch, 1839 (Araneae, Cheiracanthiidae) from Taiwan. Taiwan Journal of Biodiversity 23(2): 136–152.
+[10] Yu K-P, **Lo Y-Y**, Cheng R-C, Raven RJ, Kuntner M (2023) Discovery of a new intertidal trapdoor spider of the genus *Idioctis* (Araneae: Barychelidae), with a generic range extension to Taiwan. The Journal of Arachnology 51: 238–248. https://doi.org/10.1636/JoA-S-22-020 
 
-[8] **Lo, Y.-Y.**, R.-C. Cheng and C.-P. Lin. 2021. Species delimitation and taxonomic revision of *Oxyopes* (Araneae: Oxyopidae) of Taiwan, with description of two new species. Zootaxa 4927(1): 58–86. https://doi.org/10.11646/zootaxa.4927.1.4
+[9] **Lo Y-Y**, Wei C, Huang W-C (2021) A newly recorded species of *Cheiracanthium* C. L. Koch, 1839 (Araneae, Cheiracanthiidae) from Taiwan. TW Journal of Biodiversity 23: 136–152. 
 
-[7] **Lo, Y.-Y.**, B.-J. Chen, P.-H. Lin, X.-T. Zhang and Q.-C. Liao. 2020. The effects of different farming practices on the spider diversity and community in tea plantations of Yuchi Township, Taiwan.  Taiwan Journal of Biodiversity 22(3): 197–220. (in Chinese)
+[8] **Lo Y-Y**, Cheng R-C, Lin C-P (2021) Species delimitation and taxonomic revision of *Oxyopes* (Araneae: Oxyopidae) of Taiwan, with description of two new species. Zootaxa 4927: 58–86. https://doi.org/10.11646/zootaxa.4927.1.4 
 
-[6] Yu, K.-P., **Y.-Y. Lo**, W.-C. Huang, Y. Hsiao and T.-S. Ding. 2019. Redescription of a wall crab spider species from Taiwan: *Siamspinops formosensis* (Kayashima, 1943) comb. nov., with the first description of males and taxonomic notes (Araneae: Selenopidae). Zootaxa 4543 (4): 590–594. https://doi.org/10.11646/zootaxa.4543.4.8
+[7] **Lo Y-Y**, Chen B-J, Lin P-H, Zhang X-T, Liao Q-C (2020) The effects of different farming practices on the spider diversity and community in tea plantations of Yuchi Township, Taiwan. Taiwan Journal of Biodiversity 22(3): 197–220. (in Chinese)
 
-[5] **Lo, Y.-Y.** and C.-P. Lin. 2016. A New Record and Re-description of *Oxyopes sushilae* (Araneae, Oxyopidae) in Taiwan. Taiwan Journal of Biodiversity 18 (2): 137–144.
+[6] Yu K-P, **Lo Y-Y**, Huang W-C, Hsiao Y, Ding T-S (2019) Redescription of a wall crab spider species from Taiwan: *Siamspinops formosensis* (Kayashima, 1943) comb. nov., with the first description of males and taxonomic notes (Araneae: Selenopidae). Zootaxa 4543: 590. https://doi.org/10.11646/zootaxa.4543.4.8 
 
-[4] Koh, C.-N., S.-H. Hsu, W.-J. Cheng, M.-H. Chen, Y.-H. Huang, K.-F. Yeh, C. Chang and **Y.-Y. Lo**. 2013. Effects of arthropod abundance on nestling growth and survival of Taiwan Barbets (*Megalaima nuchalis*). Taiwan Journal of Biodiversity 15 (3): 185–195. (in Chinese)
+[5] **Lo Y-Y**, Lin C-P (2016) A New Record and Re-description of *Oxyopes sushilae* (Araneae, Oxyopidae) in Taiwan. TW Journal of Biodiversity 18: 137–144. 
 
-[3] Koh, C.-N., **Y.-Y. Lo**, S.-H. Hsu, W.-J. Cheng, Y.-H. Huang and W. Huang. 2012. Breeding biology of the Taiwan Barbet (*Megalaima nuchalis*) in Yang-Ming Mountain. Journal of National Park 22 (2): 1–7. (in Chinese)
+[4] Koh C-N, Hsu S-H, Cheng W-J, Chen M-H, Huang Y-H, Yeh K-F, Chang C, **Lo Y-Y** (2013) Effects of arthropod abundance on nestling growth and survival of Taiwan Barbets (*Megalaima nuchalis*). Taiwan Journal of Biodiversity 15(3): 185–195. (in Chinese)
 
-[2] **Lo, Y.-Y.**, S.-P. Liao, C.-F. Chen, S.-Y. Chen, C.-N. Koh. 2012. Study on gut passage effect of Taiwan’s native avian frugivores on seed germination of *Cinnamomum burmannii*. Quarterly Journal of Chinese Forestry 45 (1): 55–66. (in Chinese)
+[3] Koh C-N, **Lo Y-Y**, Hsu S-H, Cheng W-J, Huang Y-H, Huang W-B (2012) Breeding biology of the Taiwan Barbet (*Megalaima nuchalis*) in Yang-Ming Mountain. Journal of National Park 22(2): 1–7. (in Chinese)
 
-[1] **Lo, Y.-Y.** and S.-H. Chen. 2010. Study on population genetic structure and phylogeography of *Dolomedes raptor* (Araneae, Pisauridae) in Taiwan. BioFormosa 45(2): 101–110. (in Chinese)
+[2] **Lo Y-Y**, Liao S-P, Chen C-F, Chen S-Y, Koh C-N (2012) Study on gut passage effect of Taiwan’s native avian frugivores on seed germination of *Cinnamomum burmannii*. Quarterly Journal of Chinese Forestry 45(1): 55–66. (in Chinese)
+
+[1] **Lo Y-Y**, Chen S-H (2010) Study on population genetic structure and phylogeography of *Dolomedes raptor* (Araneae, Pisauridae) in Taiwan. BioFormosa 45(2): 101–110. (in Chinese)
 
 ## Conference
 
@@ -78,7 +81,7 @@ Yu, K.-P., **Y.-Y. Lo** and T.-S. Ding. 2017. Environmental Factors that Affect 
 
 **羅英元**、陳世煌、劉敏慧、周政翰、鄭錫奇。2013。2013年第19屆國際蛛形年會在臺灣－兼談臺灣蜘蛛研究現況與未來展望。自然保育季刊 84: 26–33。
 
-專書&其他著作
+## 專書&其他著作
 
 野地搜密：2021年自然手冊。2021。行政院農業委員會特有生物研究保育中心。(審稿)
 
